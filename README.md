@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! My name is Nicholas and welcome to my GitHub page. Follow me on my journey to explore the fields of Data Science!
 
 <!--
 **nicholas-khoo/nicholas-khoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
