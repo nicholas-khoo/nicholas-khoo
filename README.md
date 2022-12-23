@@ -12,4 +12,4 @@ If you have any feedback for my projects or would simply like to bounce off idea
 :e-mail: : khoo.hongli@gmail.com</br>
 :globe_with_meridians: : https://www.linkedin.com/in/khoohongli/
 
-I look forward to connecting with you and welcome once again!
+I look forward to connecting with you! Welcome once again!
