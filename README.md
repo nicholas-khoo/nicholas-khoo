@@ -4,9 +4,9 @@ Hello there, my name is Nicholas. Welcome to my GitHub page!
 
 I am currently an Application Consultant working with the Government Technology Agency of Singapore, where I enable the adoption of corporate bsuiness applications for whole-of-government.
 
-I am passionate about all things related to DATA :computer: and am currently enrolled in the Data Science Immersive Flex course with General Assembly. During the course, I'll be working on multiple projects and would like to share my journey with you into the deep realms of data science!
+I am passionate about all things related to DATA :computer: and am currently enrolled in the Data Science Immersive Flex course with General Assembly. During the course, I'll be working on multiple projects and would like to share my journey into the deep realms of data science with you!
 
-Do not be shy! Explore some of the projects I've completed using the existing knowledge acquired. All analyses and comments are completely personal and are in no representative of the organisation whom I work for.
+Do not be shy! Click into any of my repositories and explore some of the projects I've completed using my acquired knowledge. All analyses and views are entirely my own and are in no way representative of the organisation whom I work for.
 
 If you have any feedback for my projects or would simply like to bounce off ideas? Reach me at:</br>
 :e-mail: : khoo.hongli@gmail.com</br>
