@@ -6,7 +6,7 @@ I am currently an Application Consultant working with the Government Technology 
 
 I am passionate about all things related to DATA :computer: and am currently enrolled in the Data Science Immersive Flex course with General Assembly. During the course, I'll be working on multiple projects and would like to share my journey into the deep realms of data science with you!
 
-Do not be shy! Click into any of my repositories and explore some of my projects. All analyses and views are entirely my own and are in no way representative of the organisation whom I work for.
+Do not be shy! Click into any of the repositories and explore some of my projects. All analyses and views are entirely my own and are in not representative of the organisation whom I work for.
 
 If you have any feedback for my projects or would simply like to bounce off ideas, feel feee to reach me at:</br>
 :e-mail: : khoo.hongli@gmail.com</br>
