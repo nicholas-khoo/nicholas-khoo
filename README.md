@@ -2,14 +2,15 @@
 
 Hello there, my name is Nicholas. Welcome to my GitHub page!
 
-I am currently an Application Consultant working with the Government Technology Agency of Singapore, where I enable the adoption of corporate business applications for the whole-of-government.
+I am currently working as an Application Consultant with the Government Technology Agency of Singapore, where I facilitate the adoption of corporate business applications for the entire government.
 
-I am passionate about all things related to data :computer: and am currently enrolled in the Data Science Immersive Flex course with General Assembly. I'll be working on multiple projects during this period and would like to share my journey into the deep realms of data science with you! </br>
+I am passionate about everything related to data 💻, and currently enrolled in the Data Science Immersive Flex course with General Assembly. During this period, I will be working on multiple projects and would love to share my journey into the deep realms of data science with you!
 
-Don't be shy! Click into any of the repositories and explore some of my personal projects. Please note that all views expressed in my projects are entirely my own and do not reflect the views of the organisations with which I am or have been affiliated in my professional life. </br>
+Please don't hesitate to click into any of the repositories and explore some of my personal projects. Kindly note that all opinions expressed in my projects are solely my own and do not reflect the views of the organizations with which I am or have been affiliated in my professional life.
 
-If you have feedback for any of my projects or would simply like to connect to bounce off ideas, feel free reach me at:</br>
-:e-mail: : khoo.hongli@gmail.com</br>
-:globe_with_meridians: : https://www.linkedin.com/in/khoohongli/
+If you have any feedback for my projects or would simply like to connect and exchange ideas, feel free to contact me at:
 
-I look forward to connecting with you and welcome once again!
+📧: khoo.hongli@gmail.com
+🌐: https://www.linkedin.com/in/khoohongli/
+
+I am looking forward to connecting with you and welcome once again!
