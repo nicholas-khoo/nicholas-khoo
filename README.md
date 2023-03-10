@@ -11,6 +11,7 @@ Please don't hesitate to click into any of the repositories and explore some of 
 If you have any feedback for my projects or would simply like to connect and exchange ideas, feel free to contact me at:
 
 📧: khoo.hongli@gmail.com
+
 🌐: https://www.linkedin.com/in/khoohongli/
 
 I am looking forward to connecting with you and welcome once again!
