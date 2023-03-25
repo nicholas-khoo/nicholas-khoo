@@ -14,4 +14,4 @@ If you have any feedback for my projects or would simply like to connect and exc
 
 🌐: https://www.linkedin.com/in/khoohongli/
 
-I am looking forward to connecting with you and welcome once again!
+I look forward to connecting with you and welcome once again!
