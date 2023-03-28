@@ -2,7 +2,7 @@
 
 Hello there, my name is Nicholas. Welcome to my GitHub page!
 
-I am currently working as an Application Consultant with the Government Technology Agency of Singapore, where I facilitate the adoption of corporate business applications for the entire government.
+I am currently working as a Business Analyst with the Government Technology Agency of Singapore, where I facilitate the adoption of corporate business applications for the entire government.
 
 I am passionate about everything related to data, and am currently enrolled in the Data Science Immersive Flex course with General Assembly. During this period, I will be working on multiple projects and would love to share my journey into the deep realms of data science with you!
 
